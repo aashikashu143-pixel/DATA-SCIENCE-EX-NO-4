@@ -35,6 +35,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+       <img width="679" height="361" alt="image" src="https://github.com/user-attachments/assets/b0b3382e-4131-46db-9bf1-2f330600122b" />
+
 # RESULT:
        # INCLUDE YOUR RESULT HERE
